@@ -2,9 +2,7 @@
 title: "HelloWorld"
 author: "sndvd"
 date: "7/27/2020"
-output: md_document
-variant: markdown_github
-
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
